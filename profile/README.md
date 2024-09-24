@@ -11,7 +11,7 @@
 # 참여 인원
 |이름|역할|GitHub|
 |------|---|---|
-|조은상|크로스 플랫폼 앱|@JoEunSang|
+|조은상|크로스 플랫폼 앱|[@JoEunSang](https://github.com/JoEunSang))|
 |김호진|백엔드|@LikeHuTaoCoder|
 |서동영|웹|@Potato_Iced|
 |김상규|???|@ggyu0629|
