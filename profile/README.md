@@ -1,12 +1,19 @@
-## Hi there 👋
+### 목차
 
-<!--
+## I-Check
+> IMS 연구실의 출석체크 앱, 관리자용 웹 어플리케이션입니다.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 개발기간
+> 2024-09-24 ~ 진행중
+
+
+## 참여 인원
+|이름|역할|GitHub|
+|------|---|---|
+|조은상|크로스 플랫폼 앱|@JoEunSang|
+|김호진|백엔드|@LikeHuTaoCoder|
+|서동영|웹|@Potato_Iced|
+|김상규|???|@ggyu0629|
+
+
